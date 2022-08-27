@@ -9,4 +9,6 @@ The code associated with the Machine Learning Approach to model Hodgkin & Huxley
 
 The present hypothesis is that an explanation of the oscillatory phenomena of the dynamics in the system can be reduced to a two-dimensional system, given that for the unicompartmental case there are models such as FitzHugh - Nagumo with two state variables and in [1] a model that reduces the parameters to two dimensions, one associated with the structure of the neuron and another associated with the dynamics of the gate variables.
 
+Given this, we developed a methodology based on neural networks for the reduction of states in the Hodgkin & Huxley model with two compartments where a dynamic system was obtained in the plane that manages to represent the temporal dynamics of the excitatory phenomena within a neuron.
+
 [1] Ori, H., Marder, E. & Marom, S. (2018) Cellular function given parametric variation in the Hodgkin and Huxley model of excitability. Proceedings of the National Academy of Sciences, 115 (25), E8211 - E8218. https://doi.org/10.1073/pnas.1808552115
